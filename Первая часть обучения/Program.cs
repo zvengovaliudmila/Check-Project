@@ -30,4 +30,7 @@ void PrintArray(string[]Words)
    Console.WriteLine();
 }
 
-   
+stringSize(Words, Words1);
+PrintArray(Words);
+Console.WriteLine();
+PrintArray(Words1);
